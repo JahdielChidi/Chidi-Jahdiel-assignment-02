@@ -8,12 +8,12 @@ const assignment = {};
  * Challenge - 1
  * 
  * Calculate and return the sum of the numbers in an array.
+
 const array = [1, 2, 3, 4]; let sum = 0; for (let i = 0; i < array. length; i++) { sum += array[i]; } console. log(sum);
+
  * If you did Challenge - 1, remove the comment in the line just after this function
  * 
- * @param {Array} arrayOfNumbers the array of numbers to sum
- * @returns number the sum of the numbers
- */
+
 
 // assignment.sumOfNumbers = sumOfNumbers;
 
@@ -33,9 +33,6 @@ function is_an_even_number(array){
 }
  * If you did Challenge - 2, remove the comment in the line just after this function
  * 
- * @param {Array} arrayOfNumbers the array containing even or non-even numbers
- * @returns number the count of even numbers
- */
 
 // assignment.countEvenNumbers = countEvenNumbers;
 
